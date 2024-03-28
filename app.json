@@ -19,21 +19,21 @@
       "logo": "https://i.imgur.com/jpWwwRa.png",
       "price": 100,
       "leagues": ["brasileirao", "libertadores"]
-    }
+    },
      {
       "id": "athleticopr",
       "name": "Athletico PR",
       "logo": "https://i.imgur.com/NFLvNNK.png",
       "price": 100,
       "leagues": ["brasileirao"]
-       }
+       },
     {
       "id": "palmeiras",
       "name": "Palmeiras",
       "logo": "https://i.imgur.com/XihFxQ2.png",
       "price": 100,
       "leagues": ["brasileirao", "libertadores"]
-       }
+       },
     {
       "id": "atleticogo",
       "name": "Atlético GO",
