@@ -1,0 +1,24 @@
+{
+  "earningPerAds": 100,
+  "leagues": [
+    {
+      "id": "brasileirao",
+      "name": "Brasileirao",
+      "logo": "https://i.imgur.com/Z2orMzX.png"
+    },
+    {
+      "id": "libertadores",
+      "name": "Libertadores",
+      "logo": "https://i.imgur.com/Z2orMzX.png"
+    }
+  ],
+  "teams": [
+    {
+      "id": "flamengo",
+      "name": "Flamengo",
+      "logo": "https://i.imgur.com/jpWwwRa.png",
+      "price": 100,
+      "leagues": ["brasileirao", "libertadores"]
+    }
+  ]  
+}
