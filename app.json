@@ -40,6 +40,118 @@
       "logo": "https://i.imgur.com/GrrgsPJ.png",
       "price": 100,
       "leagues": ["brasileirao"]
+       },
+    {
+      "id": "atleticomg",
+      "name": "Atlético MG",
+      "logo": "https://i.imgur.com/5ZSi32V.png",
+      "price": 100,
+      "leagues": ["brasileirao", "libertadores"]
+       },
+     {
+      "id": "bahia",
+      "name": "Bahia",
+      "logo": "https://i.imgur.com/b75SYgy.png",
+      "price": 100,
+      "leagues": ["brasileirao"]
+       },
+    {
+      "id": "botafogo",
+      "name": "Botafogo",
+      "logo": "https://i.imgur.com/UilJnow.png",
+      "price": 100,
+      "leagues": ["brasileirao", "libertadores"]
+       },
+    {
+      "id": "corinthians",
+      "name": "Corinthians",
+      "logo": "https://i.imgur.com/3HoTABG.png",
+      "price": 100,
+      "leagues": ["brasileirao"]
+       },
+    {
+      "id": "criciuma",
+      "name": "Criciuma",
+      "logo": "https://i.imgur.com/3F9JvEM.png",
+      "price": 100,
+      "leagues": ["brasileirao"]
+       },
+     {
+      "id": "cruzeiro",
+      "name": "Cruzeiro",
+      "logo": "https://i.imgur.com/ajS4khT.png",
+      "price": 100,
+      "leagues": ["brasileirao"]
+       },
+    {
+      "id": "cuiaba",
+      "name": "Cuiabá",
+      "logo": "https://i.imgur.com/6axjjRG.png",
+      "price": 100,
+      "leagues": ["brasileirao"]
+       },
+    {
+      "id": "fluminense",
+      "name": "Fluminense",
+      "logo": "https://i.imgur.com/X0TpS35.png",
+      "price": 100,
+      "leagues": ["brasileirao", "libertadores"]
+       },
+    {
+      "id": "fortaleza",
+      "name": "Fortaleza",
+      "logo": "https://i.imgur.com/dSt9vGT.png",
+      "price": 100,
+      "leagues": ["brasileirao"]
+       },
+       {
+      "id": "gremio",
+      "name": "Grêmio",
+      "logo": "https://i.imgur.com/zhSlU9M.gif",
+      "price": 100,
+      "leagues": ["brasileirao", "libertadores"]
+       },
+    {
+      "id": "internacional",
+      "name": "Sport Club Internacional",
+      "logo": "https://i.imgur.com/lwRrtOg.png",
+      "price": 100,
+      "leagues": ["brasileirao"]
+       },
+    {
+      "id": "juventude",
+      "name": "Esporte Clube Juventude",
+      "logo": "https://i.imgur.com/xK4ik5R.png",
+      "price": 100,
+      "leagues": ["brasileirao"]
+       },
+      {
+      "id": "bragantino",
+      "name": "Red Bull Bragantino",
+      "logo": "https://i.imgur.com/25qnLu0.png",
+      "price": 100,
+      "leagues": ["brasileirao"]
+       },
+     {
+      "id": "saopaulo",
+      "name": "São Paulo Futebol Clube",
+      "logo": "https://i.imgur.com/GmDDjRh.png",
+      "price": 100,
+      "leagues": ["brasileirao", "libertadores"]
+       },
+    {
+      "id": "vasco",
+      "name": "Club de Regatas Vasco da Gama",
+      "logo": "https://i.imgur.com/1eP3zZB.png",
+      "price": 100,
+      "leagues": ["brasileirao"]
+       },
+     {
+      "id": "vitoria",
+      "name": "Esporte Clube Vitória",
+      "logo": "https://i.imgur.com/h5kIuXQ.png",
+      "price": 100,
+      "leagues": ["brasileirao"]
        }
   ]  
 }
