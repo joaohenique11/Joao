@@ -12,6 +12,33 @@
       "logo": "https://i.imgur.com/Z2orMzX.png"
     }
   ],
+  "themes": [
+    {
+      "price": 200,
+      "name": "UEFA",
+      "url": "https://addons-media.operacdn.com/media/CACHE/images/themes/35/178835/1.1-rev1/images/b077a974-8423-4c55-8ac7-6dcb3fbf66c6/a0aadf9c6685fb90cace15bb1c649f90.jpg"
+    },
+    {
+      "price": 200,
+      "name": "Tema 02",
+      "url": "https://i.imgur.com/ltfSRdF.jpeg"
+    },
+      {
+      "price": 200,
+      "name": "Tema 03",
+      "url": "https://i.imgur.com/sv93r2w.jpeg"
+    },
+      {
+      "price": 200,
+      "name": "Tema 04",
+      "url": "https://i.imgur.com/3lrimxF.jpeg"
+    },
+      {
+      "price": 200,
+      "name": "Tema 05",
+      "url": "https://i.imgur.com/fe87q6N.jpeg"
+    }
+  ],
   "teams": [
     {
       "id": "flamengo",
@@ -153,5 +180,6 @@
       "price": 100,
       "leagues": ["brasileirao"]
        }
+  
   ]  
 }
