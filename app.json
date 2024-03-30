@@ -173,13 +173,19 @@
       "price": 0,
       "leagues": ["brasileirao"]
        },
-     {
+          {
       "id": "vitoria",
       "name": "Esporte Clube Vitória",
       "logo": "https://i.imgur.com/h5kIuXQ.png",
       "price": 0,
       "leagues": ["brasileirao"]
+       },
+      {
+      "id": "santos",
+      "name": "Santos Futebol Clube",
+      "logo": "https://i.imgur.com/uqOG8NT.png",
+      "price": 0,
+      "leagues": ["brasileirao"]
        }
-  
   ]  
 }
