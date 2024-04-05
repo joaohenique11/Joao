@@ -149,7 +149,7 @@
       "id": "juventude",
       "name": "Esporte Clube Juventude",
       "logo": "https://i.imgur.com/xK4ik5R.png",
-      "price": 100,
+      "price": 0,
       "leagues": ["brasileirao"]
        },
       {
